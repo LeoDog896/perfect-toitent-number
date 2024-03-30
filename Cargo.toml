@@ -5,4 +5,5 @@ edition = "2021"
 
 [dependencies]
 num-bigint = "0.4.4"
+num_cpus = "1.16.0"
 primes = "0.3.0"
